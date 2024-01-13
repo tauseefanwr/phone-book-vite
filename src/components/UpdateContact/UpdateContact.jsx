@@ -5,8 +5,8 @@ const UpdateContact = () => {
   const [contact, setContact] = useState({
     id: 1,
     name: 'Tnz',
-    phoneNumber: '6201327386',
-    emailId: 'tauseefanwr@gmail.com',
+    phoneNumber: '123456789',
+    emailId: 'xxxxxx@gmail.com',
   });
 
   useEffect(() => {
